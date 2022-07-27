@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="fan_off">Fan Off</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+</resources>
